@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/MRqGmrP/fried-vegetables-with-sauce-pan.png",
+      "title": "Vegetable Stir-Fry",
+      "description": "Stir-fry packed with fresh vegetables.",
+      "ingredients": [
+        "broccoli",
+        "carrots",
+        "bell peppers",
+        "mushrooms",
+        "soy sauce",
+        "sesame oil"
+      ],
+      "minutes": 30,
+      "calories": 250
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/h8CwXzM/ca-creative-bp-PTl-XWTOvg-unsplash.png",
+      "title": "Grilled Salmon",
+      "description": "Grilled salmon with a zesty lemon butter sauce.",
+      "ingredients": [
+        "salmon fillets",
+        "butter",
+        "lemon",
+        "dill",
+        "garlic",
+        "salt and pepper"
+      ],
+      "minutes": 45,
+      "calories": 400
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/Ht44Hch/tasty-british-bean-stew-bowls.png",
+      "title": "Chickpea Curry",
+      "description": "Vegetarian curry with chickpeas in a creamy coconut.",
+      "ingredients": [
+        "chickpeas",
+        "tomatoes",
+        "onions",
+        "curry powder",
+        "coconut milk",
+        "cilantro"
+      ],
+      "minutes": 60,
+      "calories": 350
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/qsbKqrt/salads-with-quinoa-arugula.png",
+      "title": "Quinoa Salad",
+      "description": "Flavorful salad with quinoa, roasted vegetables.",
+      "ingredients": [
+        "quinoa",
+        "zucchini",
+        "bell peppers",
+        "red onion",
+        "feta cheese",
+        "balsamic vinaigrette"
+      ],
+      "minutes": 45,
+      "calories": 320
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/w7JjrWS/fresh-beef-taco-wooden-table-with-sauce-generative-ai.png",
+      "title": "Beef Tacos",
+      "description": "Classic Italian pasta dish with savory meat sauce.",
+      "ingredients": [
+        "ground beef",
+        "taco shells",
+        "tomatoes",
+        "lettuce",
+        "cheddar cheese",
+        "salsa"
+      ],
+      "minutes": 40,
+      "calories": 550
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/XjV2wQW/front-view-tasty-vegetable-salad-inside-plate-blue-table.png",
+      "title": "Vegetarian Chili",
+      "description": "Chili made with a blend of beans and vegetables",
+      "ingredients": [
+        "kidney beans",
+        "black beans",
+        "diced tomatoes",
+        "bell peppers",
+        "onions",
+        "chili powder"
+      ],
+      "minutes": 75,
+      "calories": 280
+    }
+   ]
